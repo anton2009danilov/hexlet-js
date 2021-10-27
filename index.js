@@ -1,3 +1,7 @@
-import _ from "lodash";
+import _ from 'lodash';
 
-console.log(_.last(["one", "two"]));
+let a = 4;
+
+a += 1;
+
+console.log(a);
